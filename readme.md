@@ -1,11 +1,9 @@
-# Project name 
-* Data Structure
-# Start date: 08/13/22
-task
-tạo repo
-tạo branch master/main
--feature cho branch mới
+# Data Structure 
+Understanding concepts and practice with:
+* Recursive to find max elements and linked list
+* Queue: enqueue and dequeue 
+* Stack: push and pop
 
-giả lập software life cycle trong 2 tháng
-1 tháng release production 1 lần
-2 tuần xong 1 release
+# Backtracking with the knight move question
+* Apply 2 dimensional array and loop
+* Output: check the movement of the knight and answer which direction allows the knights move to every cells of the chess board
